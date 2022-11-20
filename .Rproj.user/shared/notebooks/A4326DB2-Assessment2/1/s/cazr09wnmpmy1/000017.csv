@@ -1,0 +1,2 @@
+"0","dat %>% head(5)%>%"
+"0","  knitr::kable(caption=""rawdata"")"
