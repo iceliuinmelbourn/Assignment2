@@ -1,0 +1,6 @@
+"0","library(tidyverse)"
+"0","x = seq(1:100) "
+"0","y = rnorm(100) "
+"0","dat = data.frame(x, y) "
+"0","ggplot(dat, aes(x = x, y = y)) + "
+"0","    geom_line()"
